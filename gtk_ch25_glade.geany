@@ -29,10 +29,10 @@ long_line_column=72
 
 [files]
 current_page=0
-FILE_NAME_0=478;C;0;EUTF-8;1;1;0;%2Fhome%2Fnoutram%2Fprojects%2Fgtk_ch25_glade%2Fmain.c;0;4
+FILE_NAME_0=1074;C;0;EUTF-8;1;1;0;%2Fmnt%2Fc%2Fgit%2Fgtk2_examples%2Fgtk_ch25_glade%2Fmain.c;0;4
 
 [VTE]
-last_dir=/home/noutram/projects/test
+last_dir=/home/noutram
 
 [build-menu]
 CFT_00_LB=_Compile
